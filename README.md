@@ -1,4 +1,4 @@
-#Hey there! 👋 Welcome to my GitHub world!
+# Hey there! 👋 Welcome to my GitHub world!
 
 __Hello, friends!__ 
 
@@ -10,11 +10,11 @@ __Technologies and Tools__
 
 Here's a sneak peek at the tech I work my magic with:
 
-Front-end: HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js
-Back-end: Node.js, Express.js, Python, Django
-Databases: MySQL, MongoDB, PostgreSQL
-DevOps: Git, Docker, AWS, Heroku
-UI Frameworks: Bootstrap, Tailwind CSS
+    Front-end: HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js
+    Back-end: Node.js, Express.js, Python, Django
+    Databases: MySQL, MongoDB, PostgreSQL
+    DevOps: Git, Docker, AWS, Heroku
+    UI Frameworks: Bootstrap, Tailwind CSS
 
 __Let's Connect!__
 
