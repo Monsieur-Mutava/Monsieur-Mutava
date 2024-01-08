@@ -1,6 +1,6 @@
 # Hey there! 👋 Welcome to my GitHub world!
 
-__Hello, friends!__ 
+__Jambo!__ 
 
 I'm Mutava, and I'm super stoked to be a full-stack developer. 
 
@@ -20,10 +20,8 @@ __Let's Connect!__
 I'm all ears (and keyboards) for making new connections. Don't be shy; reach out to me through any of these channels:
 
   Email: [brianmutava11@gmail.com]
-  
-  LinkedIn: [www.linkedin.com/in/brian-mutava]
-    
 
+  
 Let's Rock this Code Party!
 
 If you've got a brilliant idea or just want to chat tech, I'm totally up for it. Let's team up and create some coding magic together! 🚀
